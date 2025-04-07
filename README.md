@@ -2,7 +2,9 @@
 
 ## GitHub Stats
 
-[![Selevras's GitHub stats](https://github-readme-stats.vercel.app/api?username=selevra&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Selevras's GitHub stats](https://github-readme-stats.vercel.app/api?username=selevra&theme=merko&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) |
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selevra&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **Selevra/Selevra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
