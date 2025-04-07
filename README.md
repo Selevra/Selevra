@@ -2,7 +2,7 @@
 
 ## GitHub Stats
 
-[![Selevras's GitHub stats](https://github-readme-stats.vercel.app/api?username=selevra)](https://github.com/anuraghazra/github-readme-stats)
+[![Selevras's GitHub stats](https://github-readme-stats.vercel.app/api?username=selevra&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Selevra/Selevra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
